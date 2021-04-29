@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205103001590",
+    "firebase_url": "https://chatmessengerarthur.firebaseio.com",
+    "project_id": "chatmessengerarthur",
+    "storage_bucket": "chatmessengerarthur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205103001590:android:dd2baabeeeffa7ce8da1d7",
+        "android_client_info": {
+          "package_name": "com.example.kchatmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205103001590-0nr8278u9114jdeke3e0i6ermi35m6tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFzcWyVrlXvxsHp4yXxM7MT1bLCb31jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205103001590-0nr8278u9114jdeke3e0i6ermi35m6tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

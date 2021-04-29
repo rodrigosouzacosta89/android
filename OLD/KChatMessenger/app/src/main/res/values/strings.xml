@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KChatMessenger</string>
+    <string name="email">email</string>
+    <string name="pass">password</string>
+    <string name="enter">Entrar</string>
+    <string name="account">Nao tem conta ainda?</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="photo">photo</string>
+
+</resources>
